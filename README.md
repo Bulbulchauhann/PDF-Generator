@@ -17,6 +17,7 @@ Maven: Make sure you have Maven installed for project management.
 
 *Installation*
 Clone the repository: git clone https://github.com/yourusername/pdf-generator.git
+
 cd pdf-generator
 
 Build the project using Maven: mvn clean install
