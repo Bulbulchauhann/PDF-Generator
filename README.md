@@ -13,8 +13,6 @@ This project is a Spring Boot application that generates PDF invoices using a Ja
 6. JUnit 5 & Mockito: For unit testing
    
 
-***Getting Started : *** 
-
 **Prerequisites**
 
 Java 17: Ensure you have JDK 17 installed.
